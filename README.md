@@ -1,2 +1,2 @@
-# repsitory1
+# repository1
 testing server1
